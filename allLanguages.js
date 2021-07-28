@@ -1,4 +1,5 @@
 module.exports = []
+const fs = require("fs")
 const languageFiles = fs.readdirSync(__dirname).filter((file) => file.endsWith(".json"))
 for (const file of languageFiles) {
     module.exports.push(`${file.split(`.`).shift()}`)
