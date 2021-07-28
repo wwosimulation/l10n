@@ -18,7 +18,7 @@ module.exports = (key, language, replaceData = {}) => {
   let chosenL = languages[language]
   if(!chosenL) return `No language with code ${language} found!`
   let string = chosenL[key]
-  if(!string) return string = languages["en"][key]
+  if(!string) string = languages["en"][key]
   string = t(string, replaceData)
   return string
 }
