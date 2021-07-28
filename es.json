@@ -14,7 +14,7 @@
     "bugNoGameServer": "¡No se pueden enviar imágenes adjuntas a un error desde el servidor del juego! Utilice el enlace a continuación para agregar sus archivos adjuntos.",
     "bugSuccess": "¡El error se ha informado correctamente! Proporcione capturas de pantalla o más información aquí:\n{{url}}",
     "suggestNoArguments": "Describe la sugerencia correctamente.\nMencione detalles de cómo desea mejorar el sistema actual / cómo su idea es efectiva y debe agregarse en WOVSIM. Mencione la diferencia en el sistema actual y su idea si corresponde.\nSi tiene capturas de pantalla / detalles para agregar, cree un problema con los detalles mencionados anteriormente. Luego vaya a la URL generada y agréguelas en los comentarios de la sugerencia.",
-    "suggestNoAttachments": "¡No se pueden enviar imágenes adjuntas a una sugerencia del servidor del juego! Utilice el enlace a continuación para agregar sus archivos adjuntos.",
+    "suggestNoGameServer": "¡No se pueden enviar imágenes adjuntas a una sugerencia del servidor del juego! Utilice el enlace a continuación para agregar sus archivos adjuntos.",
     "suggestSuccess": "¡Tu sugerencia ha sido enviada! Proporcione capturas de pantalla o más información aquí:\n{{url}}",
     "timeNoDuration": "¿Cuánto tiempo debería ser? Olvidó indicar la duración.",
     "timeInvalidFormat": "¡Formato de hora no válido!",
@@ -33,5 +33,6 @@
     "shopTitle": "Tienda de simulación de Wolvesville",
     "shopFooter": "Utilice `+buy <color> role` para comprar un color.",
     "page": "Página",
-    "availableColors": "Colores disponibles"
+    "availableColors": "Colores disponibles",
+    "settingsHeader": "Customize your settings below!"
 }
