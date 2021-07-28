@@ -2,5 +2,12 @@
     "narratorbot": "Narrator Bot",
     "ping": "Ping",
     "boosterDaily": "Because you are a booster, you have received double the normal rewards amount!",
-    "daily": "{{emoji}} Nice! You have received {{number}} {{prize}}!"
+    "daily": "{{emoji}} Nice! You have received {{number}} {{prize}}!",
+    "noItemProvided": "Please specify an item from the shop to buy!",
+    "unknownColor": "Sorry, I don't recognize the color {{color}}.\nMake sure you choose a proper color from \\`+shop colors\\`!",
+    "alreadyPurchasedRole": "Hey, you've already purchased that role!",
+    "alreadyPurchasedColor": "Hey, you've already purchased that color!",
+    "alreadyPurchasedItem": "Hey! You've already purchased the {{item}}!",
+    "notEnoughCurrency": "Sorry, you don't have enough {{currency}} for that!",
+    "channelPurchaseSuccess": "You have purchased a private channel! You can edit your channel here: {{channelLink}}"
 }
