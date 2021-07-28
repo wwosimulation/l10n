@@ -1,4 +1,6 @@
 {
-    "Narrator Bot": "Narrator Bot",
-    "narratorbot": ""
+    "narratorbot": "Narrator Bot",
+    "ping": "Ping",
+    "boosterDaily": "Because you are a booster, you have received double the normal rewards amount!",
+    "daily": "{{emoji}} Nice! You have received {{number}} {{prize}}!"
 }
