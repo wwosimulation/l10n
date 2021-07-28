@@ -6,7 +6,7 @@ let languages = {}
 const languageFiles = fs.readdirSync(__dirname).filter((file) => file.endsWith(".json"))
 for (const file of languageFiles) {
     const language = require(`./${file}`)
-    module.exports[`${file.split(`.`).shift()}`] = language
+    languages[`${file.split(`.`).shift()}`] = language
 }
 
 Object.filter = (obj, predicate) =>
@@ -17,7 +17,7 @@ Object.filter = (obj, predicate) =>
 module.exports = (key, language) => {
   let chosenL = languages[language]
   if(!chosenL) return `No language with code ${language} found!`
-  let string = chosenL[stringID]
+  let string = chosenL[key]
   if(!string) return `No string in language ${language} with key ${key} found!`
   return string
 }
