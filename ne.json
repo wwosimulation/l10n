@@ -1,0 +1,13 @@
+{
+    "narratorbot": "Narrator Bot",
+    "ping": "Ping",
+    "boosterDaily": "Omdat je een booster bent, heb je het dubbele van de normale beloning gekregen!",
+    "daily": "{{emoji}} Gaaf! Je hebt {{number}} {{prize}} gekregen!",
+    "noItemProvided": "Geef alsjeblieft aan welke item je wilt kopen van de winkel!",
+    "unknownColor": "Sorry, Ik herken de kleur {{color}} niet.\nZorg ervoor dat je de goeie kleur kiest van \\`+shop colors\\`!",
+    "alreadyPurchasedRole": "Hey! Je hebt deze rol al gekocht!",
+    "alreadyPurchasedColor": "Hey, Je hebt deze kleur al gekocht!",
+    "alreadyPurchasedItem": "Hey! Je hebt al de {{item}} gekocht!",
+    "notEnoughCurrency": "Sorry, Je hebt niet genoeg {{currency}} voor dat!",
+    "channelPurchaseSuccess": "Je hebt al een privé kanaal gekocht! Je kan je kanaal hier veranderen: {{channelLink}}"
+}
