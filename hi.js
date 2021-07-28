@@ -13,8 +13,8 @@
     "bugNoArguments": "Please describe the bug properly.\nMention details of how the bug has occurred, for which role and in which game. Do mention details of expected and observed results.\nIf you have any screenshots to add, create a bug with above mentioned details. Then go to the URL generated and add your screenshots in the comments of the issue.",
     "bugNoGameServer": "Images attached to a bug from the game server cannot be submitted! Please use the link below to add your attachments.",
     "bugSuccess": "The bug has successfully been reported! Please provide any screenshots or more information here:\n{{url}}",
-    "suggestNoArguments": "Please describe the suggestion properly.\nMention details of how you want to improve current system / how your idea is effective and needs to be added in WOVSIM. Do mention the difference in current system and your idea if applicable.\nIf you have any screenshots / details to add, create an issue with above mentioned details. Then go to the URL generated and add your them in the comments of the suggestion.\n                ",
-    "suggestNoAttachments": "Images attached to a suggestion from the game server cannot be submitted! Please use the link below to add your attachments.",
+    "suggestNoArguments": "Please describe the suggestion properly.\nMention details of how you want to improve current system / how your idea is effective and needs to be added in WOVSIM. Do mention the difference in current system and your idea if applicable.\nIf you have any screenshots / details to add, create an issue with above mentioned details. Then go to the URL generated and add your them in the comments of the suggestion.",
+    "suggestNoGameServer": "Images attached to a suggestion from the game server cannot be submitted! Please use the link below to add your attachments.",
     "suggestSuccess": "Your suggestion has been sent! Please provide any screenshots or more information here:\n{{url}}",
     "timeNoDuration": "How long it should be? You forgot to state the duration.",
     "timeInvalidFormat": "Invalid time format!",
@@ -33,5 +33,6 @@
     "shopTitle": "Wolvesville Simulation Shop",
     "shopFooter": "Use `+buy <color> role` to purchase a color.",
     "page": "Page",
-    "availableColors": "Available Colors"
+    "availableColors": "Available Colors",
+    "settingsHeader": "Customize your settings below!"
 }
