@@ -1,13 +1,13 @@
 {
-    "narratorbot": "Narrator Bot",
-    "ping": "Ping",
-    "boosterDaily": "Because you are a booster, you have received double the normal rewards amount!",
-    "daily": "{{emoji}} Nice! You have received {{number}} {{prize}}!",
-    "noItemProvided": "Please specify an item from the shop to buy!",
-    "unknownColor": "Sorry, I don't recognize the color {{color}}.\nMake sure you choose a proper color from \\`+shop colors\\`!",
-    "alreadyPurchasedRole": "Hey, you've already purchased that role!",
-    "alreadyPurchasedColor": "Hey, you've already purchased that color!",
-    "alreadyPurchasedItem": "Hey! You've already purchased the {{item}}!",
-    "notEnoughCurrency": "Sorry, you don't have enough {{currency}} for that!",
-    "channelPurchaseSuccess": "You have purchased a private channel! You can edit your channel here: {{channelLink}}"
+    "narratorbot": "NARRATOR BOT",
+    "ping": "PING",
+    "boosterDaily": "CUZ U R BOOSTR, U HAS RECEIVD DOUBLE TEH NORMAL REWARDZ AMOUNT!",
+    "daily": "{{emoji}} NICE! U HAS RECEIVD {{number}} {{prize}}!",
+    "noItemProvided": "PLZ SPECIFY AN ITEM FRUM TEH SHOP 2 BUY!",
+    "unknownColor": "SRY, I DOAN RECOGNIZE TEH COLOR {{color}}.\nMAK SURE U CHOOSE PROPR COLOR FRUM \\`+shop colors\\`!",
+    "alreadyPurchasedRole": "HAY, UVE ALREADY PURCHASD DAT ROLE!",
+    "alreadyPurchasedColor": "HAY, UVE ALREADY PURCHASD DAT COLOR!",
+    "alreadyPurchasedItem": "HAY! UVE ALREADY PURCHASD TEH {{item}}!",
+    "notEnoughCurrency": "SRY, U DOAN HAS ENOUGH {{currency}} 4 DAT!",
+    "channelPurchaseSuccess": "U HAS PURCHASD PRIVATE CHANNEL! U CAN EDIT UR CHANNEL HER: {{channelLink}}"
 }
