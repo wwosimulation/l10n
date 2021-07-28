@@ -3,7 +3,7 @@ const t = require("string-template")
 
 let languages = {}
 
-const languageFiles = fs.readdirSync(__dirname).filter((file) => file.endsWith(".json"))
+const languageFiles = fs.readdirSync(__dirname).filter((file) => file.endsWith(".json") && !file.startsWith("package"))
 for (const file of languageFiles) {
     const language = require(`./${file}`)
     languages[`${file.split(`.`).shift()}`] = language
@@ -18,7 +18,7 @@ module.exports = (key, language, replaceData = {}) => {
   let chosenL = languages[language]
   if(!chosenL) return `No language with code ${language} found!`
   let string = chosenL[key]
-  if(!string) return `No string in language ${language} with key ${key} found!`
+  if(!string) return string = languages["en"][key]
   string = t(string, replaceData)
   return string
 }
