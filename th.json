@@ -1,8 +1,8 @@
 {
-    "narratorbot": "Narrator Bot",
-    "ping": "Ping",
-    "boosterDaily": "Because you are a booster, you have received double the normal rewards amount!",
-    "daily": "{emoji} Nice! You have received {number} {prize}!",
+    "narratorbot": "นาร์เรเตอร์บอต",
+    "ping": "ปิง",
+    "boosterDaily": "เพราะว่าคุณเป็นบูสต์เตอร์, คุณได้รับสองเท่าของรางวัลปกติ!",
+    "daily": "{emoji} ยอดเยี่ยม! คุณได้รับ {number} {prize}!",
     "noItemProvided": "Please specify an item from the shop to buy!",
     "unknownColor": "Sorry, I don't recognize the color {color}.\nMake sure you choose a proper color from \\`+shop colors\\`!",
     "alreadyPurchasedRole": "Hey, you've already purchased that role!",
