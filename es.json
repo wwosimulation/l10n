@@ -34,5 +34,6 @@
     "shopFooter": "Utilice `+buy <color> role` para comprar un color.",
     "page": "Página",
     "availableColors": "Colores disponibles",
-    "settingsHeader": "Customize your settings below!"
+    "settingsHeader": "Customize your settings below!",
+    "customizeSettings": "Customize your settings below!"
 }
