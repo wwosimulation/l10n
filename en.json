@@ -7,7 +7,7 @@
     "unknownColor": "Sorry, I don't recognize the color {color}.\nMake sure you choose a proper color from \\`+shop colors\\`!",
     "alreadyPurchasedRole": "Hey, you've already purchased that role!",
     "alreadyPurchasedColor": "Hey, you've already purchased that color!",
-    "alreadyPurchasedItem": "Hey! You've already purchased the {item}!",
+    "alreadyPurchasedItem": "Hey, You've already purchased the {item}!",
     "notEnoughCurrency": "Sorry, you don't have enough {currency} for that!",
     "channelPurchaseSuccess": "You have purchased a private channel! You can edit your channel here: {channelLink}",
     "bugNoArguments": "Please describe the bug properly.\nMention details of how the bug has occurred, for which role and in which game. Do mention details of expected and observed results.\nIf you have any screenshots to add, create a bug with above mentioned details. Then go to the URL generated and add your screenshots in the comments of the issue.",
@@ -18,7 +18,7 @@
     "suggestSuccess": "Your suggestion has been sent! Please provide any screenshots or more information here:\n{url}",
     "timeNoDuration": "How long it should be? You forgot to state the duration.",
     "timeInvalidFormat": "Invalid time format!",
-    "timeSet": "Setting the time for {time}",
+    "timeSet": "Setting the time for {time}.",
     "timeIsUp": "Time is up! {ping}",
     "colorInvalid": "{color} is not a valid color!",
     "specialRoleMissing": "I am unable to find a special role assigned to you! If you have one, report this using `+bug`.",
@@ -54,7 +54,7 @@
     "narrateSecondMini": "Unfortunately, you aren't the host, and because you're a narrator in training, you aren't allowed to narrate spectate!",
     "alreadyHaveRole": "You already have this role!",
     "notNarrator": "Sorry, you must be a narrator to do this!",
-    "gameBanned": "You are game banned! You cannot join any games",
+    "gameBanned": "You are game banned! You cannot join any games.",
     "joinedLink": "{ping}, use the link above to join the game!",
     "alreadyJoined": "You have already joined the game! Check {channel} for the link!"
 }
