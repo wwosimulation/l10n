@@ -4,6 +4,7 @@
   "description": "Translations for Narrator Bot",
   "main": "index.js",
   "dependencies": {
+    "discord.js": "^13.1.0",
     "string-template": "^1.0.0"
   },
   "devDependencies": {},
