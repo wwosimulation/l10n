@@ -71,9 +71,9 @@
     "emojiNotFound": "You fool, that emoji doesn’t exist.",
     "helpMain": "**__How to join a simulation game?__**\nWhen a game is live, it will be announced in {game-warning}. Click on the join game button to join a game server.\nRead more about how to play in {how-to-play}. Ranked games will be announced in {ranked-warn}.\n\nFor any questions head over to {support-and-questions}.\n\nUse following commands with {clientUser}'s prefix ({prefix}).",
     "economy": "Economy",
-    "helpEconomy": "’shop` Pretty self explanatory.\n`daily` pretty self explanatory as well, you can get roses, coins and items from it.\n`inventory` also pretty self explanatory.\n`balance` your balance.\n`namechange` changes the name of ur stupid custom role.\n`colorchange` changes the name of ur ridiculous custom role.\n`profile` can check ur profile, it’s in the shop and costs coins, so u prob cant afford it.\n`use` for usage of lootboxes, icon to use them.\n`rose` give away your only piece of kindness during a game.",
+    "helpEconomy": "`shop` Pretty self explanatory.\n`daily` pretty self explanatory as well, you can get roses, coins and items from it.\n`inventory` also pretty self explanatory.\n`balance` your balance.\n`namechange` changes the name of ur stupid custom role.\n`colorchange` changes the name of ur ridiculous custom role.\n`profile` can check ur profile, it’s in the shop and costs coins, so u prob cant afford it.\n`use` for usage of lootboxes, icon to use them.\n`rose` give away your only piece of kindness during a game.",
     "fun": "Opposite of what you feel.",
-    "helpFun": "``emoji` Kinda like nitro for poor people like you, use emoji’s from different servers from `emojilist`\n`write` write something with better handwriting than ur doctor.",
+    "helpFun": "`emoji` Kinda like nitro for poor people like you, use emoji’s from different servers from `emojilist`\n`write` write something with better handwriting than ur doctor.",
     "bot": "Bot",
     "helpBot": "`settings` can get rid of these toxic replies.\n`botinfo` get to know about the best bot ever.\n`bug` report a bug to the dev team.\n`suggest` suggest stuff for Narrator bot.\n`roleinfo` expand your little knowledge about in-game roles and interactions.",
     "helpHeader": "About Narrator Bot"
