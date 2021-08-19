@@ -67,6 +67,5 @@
     "needUserId": "Please specify a user ID.",
     "done": "Done!",
     "xpFormatInvalid": "Invalid format! Use `+xp <add/remove/set> <user> <amount>`!",
-    "commandRan": "Successfully ran {command} on {user}!",
-    
+    "commandRan": "Successfully ran {command} on {user}!"
 }
