@@ -69,7 +69,7 @@
     "xpFormatInvalid": "Invalid format, use `+xp <add/remove/set> <user> <amount>`. If you have EYES and you can READ then I wouldn’t have to say this..",
     "commandRan": "K, ran `{command}` on {user}.",
     "emojiNotFound": "You fool, that emoji doesn’t exist.",
-    "helpMain": "**__How to join a simulation game?__**\nWhen a game is live, it will be announced in {game-warning}. Click on the join game button to join a game server.\nRead more about how to play in {how-to-play}. Ranked games will be announced in {ranked-warn}.\n\nFor any questions head over to {support-and-questions}.\n\nUse following commands with {clientUser}'s prefix ({prefix}).",
+    "helpMain": "**__How to join a simulation game?__**\nWhen a game is live, it will be announced in {gamewarning}. Click on the join game button to join a game server.\nRead more about how to play in {howtoplay}. Ranked games will be announced in {rankedwarn}.\n\nFor any questions head over to {supportandquestions}.\n\nUse following commands with {clientUser}'s prefix ({prefix}).",
     "economy": "Economy",
     "helpEconomy": "`shop` Pretty self explanatory.\n`daily` pretty self explanatory as well, you can get roses, coins and items from it.\n`inventory` also pretty self explanatory.\n`balance` your balance.\n`namechange` changes the name of ur stupid custom role.\n`colorchange` changes the name of ur ridiculous custom role.\n`profile` can check ur profile, it’s in the shop and costs coins, so u prob cant afford it.\n`use` for usage of lootboxes, icon to use them.\n`rose` give away your only piece of kindness during a game.",
     "fun": "Opposite of what you feel.",

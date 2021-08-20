@@ -69,7 +69,7 @@
     "xpFormatInvalid": "Format tidak valid! Pakai `+xp <add/remove/set> <user> <amount>'!",
     "commandRan": "Berhasil menjalankan {command} dalam {user}!",
     "emojiNotFound": "Tidak dapat menemukan emoji tersebut!",
-    "helpMain": "**__Bagaimana cara bergabung dalam game simulasi?__**\nSaat sebuah game sedang berlangsung, itu akan diumumkan di {game-warning}. Tekan tombol bergabung untuk bergabung kedalam server game.\nBaca lebih banyak tentang bagaimana cara bermain di {how-to-play}. Game peringkat akan diumumkan di {ranked-warn}.\n\nUntuk pertanyaan apapun, pergi ke {support-and-questions}.\n\nPakai perintah ini dengan {clientUser}'s prefix ({prefix}).",
+    "helpMain": "**__Bagaimana cara bergabung dalam game simulasi?__**\nSaat sebuah game sedang berlangsung, itu akan diumumkan di {gamewarning}. Tekan tombol bergabung untuk bergabung kedalam server game.\nBaca lebih banyak tentang bagaimana cara bermain di {howtoplay}. Game peringkat akan diumumkan di {rankedwarn}.\n\nUntuk pertanyaan apapun, pergi ke {supportandquestions}.\n\nPakai perintah ini dengan {clientUser}'s prefix ({prefix}).",
     "economy": "Ekonomi",
     "helpEconomy": "`shop` Beli berbagai barang - barang di toko.\n`daily` Dapatkan koin, bunga mawar, dan barang sebagai hadiah harian.\n`inventory` Lihat bunga mawar, koin, dan barang di tasmu.\n`balance` Cek berapa banyak koin bot narator yang kamu punya.\n`namechange` Membuat nama baru untuk role kustommu.\n`colorchange` Membuat warna baru untuk role kustommu.\n`profile` Cek profil khususmu. Tersedia di toko!\n`use` Pakai perintah ini dengan nama barang seperti lootbox dan icon untuk menggunakan mereka.\n`rose` Memberikan bunga mawar maupun buket bunga mawar dalam permainan.",
     "fun": "Menyenangkan",
