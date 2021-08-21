@@ -73,7 +73,7 @@
     "economy": "Economy",
     "helpEconomy": "`shop` Pretty self explanatory.\n`daily` pretty self explanatory as well, you can get roses, coins and items from it.\n`inventory` also pretty self explanatory.\n`balance` your balance.\n`namechange` changes the name of ur stupid custom role.\n`colorchange` changes the name of ur ridiculous custom role.\n`profile` can check ur profile, it’s in the shop and costs coins, so u prob cant afford it.\n`use` for usage of lootboxes, icon to use them.\n`rose` give away your only piece of kindness during a game.",
     "fun": "Opposite of what you feel.",
-    "helpFun": "`emoji` Kinda like nitro for poor people like you, use emoji’s from different servers from `emojilist`\n`write` write something with better handwriting than ur doctor.",
+    "helpFun": "`emoji` Kinda like nitro for poor people like you, use emoji’s from different servers from `emojilist`\n`write` write something with better handwriting than ur doctor.\n`reverse` make ur sentences even harder to read then they normally are",
     "bot": "Bot",
     "helpBot": "`settings` can get rid of these toxic replies.\n`botinfo` get to know about the best bot ever.\n`bug` report a bug to the dev team.\n`suggest` suggest stuff for Narrator bot.\n`roleinfo` expand your little knowledge about in-game roles and interactions.",
     "helpHeader": "About Narrator Bot"
