@@ -73,7 +73,7 @@
     "economy": "economie",
     "helpEconomy": "`shop` koop verschillende spullen in de winkel.\n`daily` krijg munten, rozen en spullen als dagelijkse beloning.\n`inventory` vind de rozen, munten en spullen in je inventaris.\n`balance` Check hoeveel narrator bot munten je hebt.\n`namechange` Geef je op maat gemaakte rol een nieuwe naam.\n`colorchange` Geef je op maar gemaakte rol een nieuwe kleur.\n`profile` Check je exclusieve profiel. Beschikbaar in de winkel!\n`use` Gebruik deze command met de naam van het spul zoals lootbox, icoon om dit te gebruiken.\n`rose` Geef rozen en bouqetten tijdens een game.",
     "fun": "Plezier",
-    "helpFun": "`emoji` gebruik emoji’s van andere beschikbare servers van `emojilist`\n`write` Schrijf iets met schitterende letters en cijfers.",
+    "helpFun": "`emoji` gebruik emoji’s van andere beschikbare servers van `emojilist`\n`write` Schrijf iets met schitterende letters en cijfers.\n`reverse` Reverse your sentences.",
     "bot": "Robot",
     "helpBot": "`settings` Zoek de taal van jouw voorkeur voor de bot antwoorden.\n`botinfo` krijg meer te weten over de bot!\n`bug` Rapporteer een bug naar het development team.\n`suggest` Suggereer een verbetering voor Narrator Bot.\n`roleinfo` Krijg meer te weten over de in-game rollen en interacties.",
     "helpHeader": "Over Narrator Bot"
