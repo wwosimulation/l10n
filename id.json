@@ -73,7 +73,7 @@
     "economy": "Ekonomi",
     "helpEconomy": "`shop` Beli berbagai barang - barang di toko.\n`daily` Dapatkan koin, bunga mawar, dan barang sebagai hadiah harian.\n`inventory` Lihat bunga mawar, koin, dan barang di tasmu.\n`balance` Cek berapa banyak koin bot narator yang kamu punya.\n`namechange` Membuat nama baru untuk role kustommu.\n`colorchange` Membuat warna baru untuk role kustommu.\n`profile` Cek profil khususmu. Tersedia di toko!\n`use` Pakai perintah ini dengan nama barang seperti lootbox dan icon untuk menggunakan mereka.\n`rose` Memberikan bunga mawar maupun buket bunga mawar dalam permainan.",
     "fun": "Menyenangkan",
-    "helpFun": "`emoji` Pakai emoji dari server yang berbeda tersedia di `emojilist`.\n`write` Write something with fancy letters and numbers.",
+    "helpFun": "`emoji` Pakai emoji dari server yang berbeda tersedia di `emojilist`.\n`write` Write something with fancy letters and numbers.\n`reverse` Reverse your sentences.",
     "bot": "Bot",
     "helpBot": "`settings` Atur bahasa yang digunakan oleh bot untuk membalasmu.\n`botinfo` Pelajari lebih banyak tentang bot.\n`bug` Laporkan bug ke tim pengembang.\n`suggest` Memberi saran untuk mengembangkan Bot Narator.\n`roleinfo` Pelajari lebih banyak tentang peran - peran di dalam game dan interaksinya.",
     "helpHeader": "Tentang Bot Narator"
