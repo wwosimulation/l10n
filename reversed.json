@@ -69,12 +69,12 @@
     "xpFormatInvalid": "!`+xp <add/remove/set> <user> <amount>` esU !tamorf dilavnI",
     "commandRan": "!{user no `{command}` nar yllufsseccuS",
     "emojiNotFound": "!ijome taht dnif or elbanU",
-    "helpMain": ".({prefix}) xiferp s'{clientUser} htiw sdnammoc gniwollof esU\n\n.{supportandquestions} ot revo daeh snoitseuq yna roF\n\n.{rankedwarn} ni decnuonna eb lliw semag deknaR .{howtoplay} ni yalp ot woh tuoba erom daeR\n.revres  emag a nioj ot nottub emag nioj eht no kvilC .{gamewarning} ni decnuonna eb lliw ti ,evil si emag a nehW\n**__?emag niotalumisa nioj ot woH__**",
+    "helpMain": ".({prefix}) xiferp s'{clientUser} htiw sdnammoc gniwollof esU\n\n.{supportandquestions} ot revo daeh snoitseuq yna roF\n\n.{rankedwarn} ni decnuonna eb lliw semag deknaR .{howtoplay} ni yalp ot woh tuoba erom daeR\n.revres  emag a nioj ot nottub emag nioj eht no kcilC .{gamewarning} ni decnuonna eb lliw ti ,evil si emag a nehW\n**__?emag niotalumisa nioj ot woH__**",
     "economy": "ymonocE",
-    "helpEconomy": ".emag a gnirud steuquob dna sesor eviG `esor`\n.meht esu ot noci ,xobtool so hcus eman meti eht htiw dnammoc siht esU `esu`\n!pohs eht ni elbaliabA .eliforp evisulcxe ruoy tuo kcehC `eliforp`\n.roloc wen a elor motsuc ruoy eviG `egnahcroloc`\n.eman wen a elor motsuc ruoy eviG `egnahceman`\n.tog uou snioc tob rotarran ynam woh kcehC `ecnalab`\n.yrotnevni ruoy ni smeti ,snioc ,sesor eht dniF `yrotnevni`\n.drawer yliad a sa smeti ,sesor ,snioc teG `yliad`\n.pohs eht ni smeti tnereffid yuB `pohs`",
+    "helpEconomy": ".emag a gnirud steuquob dna sesor eviG `rose`\n.meht esu ot noci ,xobtool so hcus eman meti eht htiw dnammoc siht esU `use`\n!pohs eht ni elbaliabA .eliforp evisulcxe ruoy tuo kcehC `profile`\n.roloc wen a elor motsuc ruoy eviG `colorchange`\n.eman wen a elor motsuc ruoy eviG `namechange`\n.tog uou snioc tob rotarran ynam woh kcehC `balance`\n.yrotnevni ruoy ni smeti ,snioc ,sesor eht dniF `inventory`\n.drawer yliad a sa smeti ,sesor ,snioc teG `daily`\n.pohs eht ni smeti tnereffid yuB `shop`",
     "fun": "nuF",
-    "helpFun": ".secnetnes tuoy esreveR `esrever`\n.srebmun dna srettel ycnaf htiw gnihtemos etirW `etirw`\n.`tsilijome` morf elbaliava srevres tnereffid morf sijome esu `ijome`",
+    "helpFun": ".secnetnes tuoy esreveR `reverse`\n.srebmun dna srettel ycnaf htiw gnihtemos etirW `write`\n.`tsilijome` morf elbaliava srevres tnereffid morf sijome esu `emoji`",
     "bot": "toB",
-    "helpBot": ".snoitcaretni dna selor emag-ni eht tuoba erom wonK `ofnielor`\n.toB rotarraN rof tnemecnahne ro tnemevorpmi na tsegguS `tseggus`\n.maet tnempoleved eht ot gub a tropeR `gub`\n.tob eht tuoba erom wonk ot teG `ofnitob`\n.seilper tob eht rof egaugnal derreferp ruoy ezimotsuC `sgnittes`",
+    "helpBot": ".snoitcaretni dna selor emag-ni eht tuoba erom wonK `roleinfo`\n.toB rotarraN rof tnemecnahne ro tnemevorpmi na tsegguS `suggest`\n.maet tnempoleved eht ot gub a tropeR `bug`\n.tob eht tuoba erom wonk ot teG `botinfo`\n.seilper tob eht rof egaugnal derreferp ruoy ezimotsuC `settings`",
     "helpHeader": "toB rotarraN tuobA"
 }
