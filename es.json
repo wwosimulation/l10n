@@ -51,7 +51,7 @@
     "joinedGame": "¡{user} se ha unido al juego!",
     "spectateDead": "Lo siento, estás muerto. No puedes cambiar a espectador ahora.",
     "spectate": "¡{user} está ahora espectando el juego!",
-    "narrateSecondMini": "Desafortunadamente, no eres el anfitrión, y porque eres un narrador en entrenamiento, ¡no tienes permitido",
+    "narrateSecondMini": "Desafortunadamente, no eres el anfitrión, y porque eres un narrador en entrenamiento, ¡no tienes permitido espectar como narrador!",
     "alreadyHaveRole": "¡Ya tienes ese rol!",
     "notNarrator": "Lo siento, ¡debes ser un narrador para hacer esto!",
     "gameBanned": "¡Estás baneado del juego! No te puedes unir a ninguna partida.",
