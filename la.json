@@ -69,7 +69,7 @@
     "xpFormatInvalid": "Invalid format! Use `+xp <add/remove/set> <user> <amount>`!",
     "commandRan": "Successfully ran `{command}` on {user}!",
     "emojiNotFound": "Unable to find that emoji!",
-    "helpMain": "**__How to join a simulation game?__**\nWhen a game is live, it will be announced in {gamewarning}. Click on the join game button to join a game server.\nRead more about how to play in {howtoplay}. Ranked games will be announced in {rankedwarn}.\n\nFor any questions head over to {supportandquestions}.\n\nUse following commands with {clientUser}'s prefix ({prefix}).",
+    "helpMain": "**__Quomodo simulatio iungere ludum?__**\nCum ludus agatur, annuntietur in {gamewarning}. Deprime in conjunctione ut servo lusum iungas. Plus legere quomodo ludere in {howtoplay}. Ludi ordo in {rankedwarn} annuntiabuntur.\n\nPro quibusvis quaestionibus caput ad {supportandquestion} pertinet.\n\nPraeceptis sequentibus ({prefix}) utere cum praepositione {clientUser}'s.",
     "economy": "Economy",
     "helpEconomy": "`shop` Buy different items in the shop.\n`daily` Get coins, roses, items as a daily reward.\n`inventory` Find the roses, coins, items in your inventory.\n`balance` Check how many narrator bot coins you got.\n`namechange` Give your custom role a new name.\n`colorchange` Give your custom role a new color.\n`profile` Check out your exclusive profile. Available in the shop!\n`use` Use this command with the item name such as lootbox, icon to use them.\n`rose` Give roses and bouquets during a game.",
     "fun": "Fun",
