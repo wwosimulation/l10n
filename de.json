@@ -67,7 +67,7 @@
     "needUserId": "Bitte gib einer Benutzer-ID an.",
     "done": "Done!",
     "xpFormatInvalid": "Ungültiges Format! Benutze `+xp <add | remove | set> <user> <amount>`!",
-    "commandRan": "{command} erfolgreich auf {user} angewandt!",
+    "commandRan": "`{command}` erfolgreich auf {user} angewandt!",
     "emojiNotFound": "Emoji nicht gefunden!",
     "helpMain": "**__Wie tritt man einem Sim Spiel bei?__**\nSobald ein Spiel gestartet wird, wird es es in {gamewarning} angekündigt Klickt auf den \"Join Game\" Knopf, um dem Spiel Server beizutreten.\nWitere Informationen, wie man ein Sim Spiel spielt, können in {howtoplay} nachgelesen werden. Ranglistenspiele werden in {randkedwarn} angekündigt.\n\nWeitere Fragen bitte in {supportandquestions} stellen.\n\nBenutze die folgenden Befehle mit {clientUser}s Präfix ({prefix})",
     "economy": "Wirtschaft",
