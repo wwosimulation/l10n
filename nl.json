@@ -62,7 +62,7 @@
     "coinsRemoved": "{amount} weggehaald van {user}. ",
     "userInvalid": "{user} is geen geldige gebruiker!",
     "emergencyStop": "Noodstop geactiveerd! Neem zo onmiddellijk contact op met een dev assistent! ",
-    "questFormatInvalid": "Ongeldige formaat! Gebruik `+quest <gebruiker> <xp> <quest>`!",
+    "questFormatInvalid": "Ongeldige formaat! Gebruik `+quest <user> <xp> <quest>`!",
     "stafflistQueued": "Personeelslijst update staat in de wachtrij!",
     "needUserId": "Specificeer alstublieft een gebruikers-ID.",
     "done": "Klaar!",
