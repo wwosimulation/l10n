@@ -67,7 +67,7 @@
     "needUserId": "Tolong beri tahu ID sebuah user.",
     "done": "Selesai!",
     "xpFormatInvalid": "Format tidak valid! Pakai `+xp <add/remove/set> <user> <amount>'!",
-    "commandRan": "Berhasil menjalankan {command} dalam {user}!",
+    "commandRan": "Berhasil menjalankan `{command}` dalam {user}!",
     "emojiNotFound": "Tidak dapat menemukan emoji tersebut!",
     "helpMain": "**__Bagaimana cara bergabung dalam game simulasi?__**\nSaat sebuah game sedang berlangsung, itu akan diumumkan di {gamewarning}. Tekan tombol bergabung untuk bergabung kedalam server game.\nBaca lebih banyak tentang bagaimana cara bermain di {howtoplay}. Game peringkat akan diumumkan di {rankedwarn}.\n\nUntuk pertanyaan apapun, pergi ke {supportandquestions}.\n\nPakai perintah ini dengan {clientUser}'s prefix ({prefix}).",
     "economy": "Ekonomi",
