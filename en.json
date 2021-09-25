@@ -31,7 +31,7 @@
     "profile": "Profile",
     "inventory": "Inventory",
     "shopTitle": "Wolvesville Simulation Shop",
-    "shopFooter": "Use `+buy <color> role` to purchase a color.",
+    "shopFooter": "Use `+buy <color> color` to purchase a color.",
     "page": "Page",
     "availableColors": "Available Colors",
     "customizeSettings": "Customize your settings below!",
