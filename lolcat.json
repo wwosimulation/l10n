@@ -76,5 +76,15 @@
     "helpFun": "`emoji` USE EMOJIS FRUM DIFFERENT SERVERS AVAILABLE FRUM `EMOJILIST`.\n`write` RITE SOMETHIN WIF FANCY LETTERS AN NUMBERS.\n`reverse` REVERSE UR SENTENCEZ.",
     "bot": "BOT",
     "helpBot": "`settings` CUSTOMIZE UR PREFERRD LANGUAGE 4 DA BOT REPLIEZ.\n`botinfo` GIT 2 KNOE MOAR BOUT TEH BOT.\n`bug` REPORT BUG 2 TEH DEVELOPMENT TEAM.\n`suggest` SUGGEST AN IMPROOVEMENT OR ENHANCEMENT 4 NARRATOR BOT.\n`roleinfo` KNOE MOAR BOUT TEH IN-GAME ROLEZ AN INTERACSHUNS.",
-    "helpHeader": "BOUT NARRATOR BOT"
+    "helpHeader": "BOUT NARRATOR BOT",
+    "dailyNotReady": "U CANT CLAIM UR NEXT DAILY PRIZE YET! COME BAK {time}",
+    "inviteBadgeUnlocked": "Congratulations! You just unlocked the invite badge with the code `{code}`",
+    "registeredInvite": "Your current registered invite code is `{code}` with **{uses}** uses.",
+    "noInviteRegistered": "You don't have any invite registered yet. Register it now using `{usage}`!\n\nThe invite can be in any of these formats:\n`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`,\n`wmY5afT`",
+    "inviteRegistered": "Successfully registered `{code}` to your account!",
+    "inviteAdded": "Successfully added invite",
+    "inviteAddFailed": "Failed to add invite",
+    "notOwnInvite": "Please use an invite you created!",
+    "notSimInvite": "Unable to find invite `{code}`!\nPlease use an invite from the sim server.",
+    "inviteNotResolveable": "Can't resolve this invite. Please try again or report this bug."
 }
