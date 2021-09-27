@@ -76,5 +76,15 @@
     "helpFun": "`emoji` Utiliza emojis de distintos servidores disponibles en `emojilist`\n`write` Escribe un texto con letras y números bonitos.\n`reverse` Voltea tus frases.",
     "bot": "Bot",
     "helpBot": "`settings` Personaliza el idioma de tu preferencia para las respuestas del bot.\n`botinfo` Aprende más acerca del bot.\n`bug` Reporta un error al equipo de desarrolladores.\n`suggest` Sugiere una mejora para el Narrator Bot.\n`roleinfo` Descubre más acerca de los roles e interacciones en la partida.",
-    "helpHeader": "Acerca del Narrator Bot"
+    "helpHeader": "Acerca del Narrator Bot",
+    "dailyNotReady": "¡No puedes reclamar tu recompensa diaria todavía! Regresa en {time}",
+    "inviteBadgeUnlocked": "¡Felicidades! Has desbloqueado la insignia de invitación con el código `{code}`",
+    "registeredInvite": "Tu código de invitación registrado actualmente es `{code}` con **{uses}** usos.",
+    "noInviteRegistered": "No tienes ninguna invitación registrada todavía. ¡Regístrala ahora utilizando `{usage}`!\n\nLa invitación puede estar en cualquiera de estos formatos:\n`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`, \n`wmY5afT`",
+    "inviteRegistered": "¡Se ha registrado exitosamente `{code}` en tu cuenta!",
+    "inviteAdded": "Invitación agregada exitosamente",
+    "inviteAddFailed": "Error al agregar invitación",
+    "notOwnInvite": "¡Por favor utiliza una invitación que tú hayas creado!",
+    "notSimInvite": "Incapaz de encontrar la invitación `{code}`!\nPor favor utiliza una invitación del servidor del simulator.",
+    "inviteNotResolveable": "No se puede proceder esta invitación. Por favor intenta de nuevo o reporta este bug."
 }
