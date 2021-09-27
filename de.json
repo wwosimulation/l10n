@@ -76,5 +76,15 @@
     "helpFun": "`emoji` Benutze Emojis, die auf der `emojilist` von anderen Servern stehen.\n`write` Schreibe etwas in abgefahrenen Buchstaben und Nummern.\n`reverse` Kehre einen Satz um.",
     "bot": "Bot",
     "helpBot": "`settings` Stelle deine bevorzugte Sprache für Botantworten ein.\n`botinfo` Erfahre mehr über Narrator-Bot.\n`bug` Melde einen Fehler/Bug an das Entwickler Team\n`suggest` Schlage eine Verbesserung oder Erweiterung für Narrator-Bot vor.\n`roleinfo` Lerne mehr über Soiel Rollen und Interaktionen.",
-    "helpHeader": "Über Narrator-Bot"
+    "helpHeader": "Über Narrator-Bot",
+    "dailyNotReady": "Du kannst deine tägliche Belohnung noch nicht einsammeln! Versuche es in {time} erneut.",
+    "inviteBadgeUnlocked": "Glückwunsch! Du hast das Einladungsabzeichen mit dem Einadungscode `{code}` freigeschalten.",
+    "registeredInvite": "Dein aktueller Einladungslink ist `{code}`. Er wurde **{uses}** mal benutzt.",
+    "noInviteRegistered": "Du hast noch keine Einladung angegeben. Registriere jetzt eine, indem du du `{usage}` benutzt!\n\nDie Einladung kann in folgenden Formaten angegeben werden:\n`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`,\n`wmY5afT`",
+    "inviteRegistered": "`{code}` erfolgreich für dein Account registriert!",
+    "inviteAdded": "Einladung erfolgreich hinzugefügt",
+    "inviteAddFailed": "Hinzufügen von Einladung fehlgeschlagen",
+    "notOwnInvite": "Bitte nutze eine Einladung, die du erstellt hast!",
+    "notSimInvite": "`{code}` konnte nicht gefunden werden!\nBitte gib einen Code vom Sim Server an.",
+    "inviteNotResolveable": "Konnte die Einladung nicht erkennen. Bitte versuche es erneut oder melde den Bug."
 }
