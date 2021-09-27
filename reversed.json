@@ -58,7 +58,7 @@
     "joinedLink": "!emag eht nioj ot evoba knli eht esu ,{ping}",
     "alreadyJoined": "!knil eht rof {channel} kcehC !emag eht denioj ydaerla evah uoY",
     "amountInvalid": "!tnuoma dilav a ton si {amount}",
-    "coinsAdded": ".{user} morf {amount} devomeR",
+    "coinsAdded": ".{user} morf {amount} deddA",
     "coinsRemoved": ".{user} morf {amount} devomeR",
     "userInvalid": "!resu dilav a ton si {user}",
     "emergencyStop": "!yleraidemmj tnat ved a tcatnoc esaelP !detaitini pots ycnegremE",
@@ -76,5 +76,15 @@
     "helpFun": ".secnetnes tuoy esreveR `reverse`\n.srebmun dna srettel ycnaf htiw gnihtemos etirW `write`\n.`emojilist` morf elbaliava srevres tnereffid morf sijome esu `emoji`",
     "bot": "toB",
     "helpBot": ".snoitcaretni dna selor emag-ni eht tuoba erom wonK `roleinfo`\n.toB rotarraN rof tnemecnahne ro tnemevorpmi na tsegguS `suggest`\n.maet tnempoleved eht ot gub a tropeR `bug`\n.tob eht tuoba erom wonk ot teG `botinfo`\n.seilper tob eht rof egaugnal derreferp ruoy ezimotsuC `settings`",
-    "helpHeader": "toB rotarraN tuobA"
+    "helpHeader": "toB rotarraN tuobA",
+    "dailyNotReady": "{time} kcab emoC !tey ezirp yliad txen ruoy mialc tonnac uoY",
+    "inviteBadgeUnlocked": "`{code}` edoc eht htiw egdab etivni eht dekcolnu tsuj uoY !snoitalutargnoC",
+    "registeredInvite": "Your current registered invite code is `{code}` with **{uses}** uses.",
+    "noInviteRegistered": "You don't have any invite registered yet. Register it now using `{usage}`!\n\nThe invite can be in any of these formats:\n`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`,\n`wmY5afT`",
+    "inviteRegistered": "Successfully registered `{code}` to your account!",
+    "inviteAdded": "Successfully added invite",
+    "inviteAddFailed": "Failed to add invite",
+    "notOwnInvite": "Please use an invite you created!",
+    "notSimInvite": "Unable to find invite `{code}`!\nPlease use an invite from the sim server.",
+    "inviteNotResolveable": "Can't resolve this invite. Please try again or report this bug."
 }
