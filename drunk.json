@@ -76,5 +76,15 @@
     "helpFun": "`emoji` use emojis from different servers available from `emojilist`.\n`write` Write something with fancy letters and numbers.\n`reverse` Reverse your sentences.",
     "bot": "Bot",
     "helpBot": "`settings` Customize your preferred language for the bot replies.\n`botinfo` Get to know more about the bot.\n`bug` Report a bug to the development team.\n`suggest` Suggest an improvement or enhancement for Narrator Bot.\n`roleinfo` Know more about the in-game roles and interactions.",
-    "helpHeader": "About Narrator Bot"
+    "helpHeader": "About Narrator Bot",
+    "dailyNotReady": "You cannot claim your next daily prize yet! Come back {time}",
+    "inviteBadgeUnlocked": "Congratulations! You just unlocked the invite badge with the code `{code}`",
+    "registeredInvite": "Your current registered invite code is `{code}` with **{uses}** uses.",
+    "noInviteRegistered": "You don't have any invite registered yet. Register it now using `{usage}`!\n\nThe invite can be in any of these formats:\n`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`,\n`wmY5afT`",
+    "inviteRegistered": "Successfully registered `{code}` to your account!",
+    "inviteAdded": "Successfully added invite",
+    "inviteAddFailed": "Failed to add invite",
+    "notOwnInvite": "Please use an invite you created!",
+    "notSimInvite": "Unable to find invite `{code}`!\nPlease use an invite from the sim server.",
+    "inviteNotResolveable": "Can't resolve this invite. Please try again or report this bug."
 }
