@@ -76,5 +76,15 @@
     "helpFun": "`emoji` gebruik emoji’s van andere beschikbare servers van `emojilist`\n`write` Schrijf iets met schitterende letters en cijfers.\n`reverse` Reverse your sentences.",
     "bot": "Robot",
     "helpBot": "`settings` Zoek de taal van jouw voorkeur voor de bot antwoorden.\n`botinfo` krijg meer te weten over de bot!\n`bug` Rapporteer een bug naar het development team.\n`suggest` Suggereer een verbetering voor Narrator Bot.\n`roleinfo` Krijg meer te weten over de in-game rollen en interacties.",
-    "helpHeader": "Over Narrator Bot"
+    "helpHeader": "Over Narrator Bot",
+    "dailyNotReady": "Je kan je daagelijkse prijs nog niet eisen! Kom terug {time}",
+    "inviteBadgeUnlocked": "Gefeliciteerd! Je hebt zojuist de uitnodiging's badge ontgrendeld met de code `{code}`",
+    "registeredInvite": "Jouw geregistreerde uitnodiging's code is `(code}` en is **{uses}** keer gebruikt.",
+    "noInviteRegistered": "Je hebt nog geen geregistreerde uitnodiging. Registreer het nu door `{usage}` te gebruiken!\n\nDe uitnodiging kan in de volgende formaten:\n`https://discord.gg/wmY5afT`\n`discord.gg/wmY5afT`\n`wmY5afT`",
+    "inviteRegistered": "De uitnodiging's code `{code}` is succesvol met jouw account geregistreerd!",
+    "inviteAdded": "De uitnodiging is succesvol toegevoegd",
+    "inviteAddFailed": "Kan uitnodiging niet toevoegen",
+    "notOwnInvite": "Gebruik alsjeblieft een uitnodiging die door jou gemaakt is!",
+    "notSimInvite": "Kan de uitnodiging `{code}` niet vinden!\nGebruik een uitnodiging van de simulatie server.",
+    "inviteNotResolveable": "Kan deze uitnodiging niet oplossen. Probeer het opnieuw of meld deze bug."
 }
