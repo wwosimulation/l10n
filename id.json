@@ -76,5 +76,15 @@
     "helpFun": "`emoji` Pakai emoji dari server yang berbeda tersedia di `emojilist`.\n`write` Write something with fancy letters and numbers.\n`reverse` Reverse your sentences.",
     "bot": "Bot",
     "helpBot": "`settings` Atur bahasa yang digunakan oleh bot untuk membalasmu.\n`botinfo` Pelajari lebih banyak tentang bot.\n`bug` Laporkan bug ke tim pengembang.\n`suggest` Memberi saran untuk mengembangkan Bot Narator.\n`roleinfo` Pelajari lebih banyak tentang peran - peran di dalam game dan interaksinya.",
-    "helpHeader": "Tentang Bot Narator"
+    "helpHeader": "Tentang Bot Narator",
+    "dailyNotReady": "Kamu tidak dapat mengambil hadiah harianmu sekarang! Kembalilah setelah {time}",
+    "inviteBadgeUnlocked": "Selamat! Kamu telah membuka lencana undangan dengan kode `{code}`",
+    "registeredInvite": "Kode undangan terdaftarmu adalah  `{code}` dengan **{uses}** pengunaan tersisa.",
+    "noInviteRegistered": "Kamu tidak mempunyai undangan yang terdaftar. Daftar menggunakan `{usage}`!\n\nUndangannya dapat menggunakan format berikut :\n`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`,\n`wmY5afT`",
+    "inviteRegistered": "Berhasil mendaftarkan `{code} ke akunmu!`",
+    "inviteAdded": "Berhasil menambahkan undangan",
+    "inviteAddFailed": "Gagal menambahkan undangan",
+    "notOwnInvite": "Tolong pakai undangan yang kamu buat!",
+    "notSimInvite": "Tidak dapat menemukan undangan `{code}`!\nTolong pakai undangan dari server sim.",
+    "inviteNotResolveable": "Gagal menyelesaikan undangan ini. Tolong coba lagi atau laporkan bug ini."
 }
