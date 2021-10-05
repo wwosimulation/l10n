@@ -78,13 +78,13 @@
     "helpBot": "`settings` CUSTOMIZE UR PREFERRD LANGUAGE 4 DA BOT REPLIEZ.\n`botinfo` GIT 2 KNOE MOAR BOUT TEH BOT.\n`bug` REPORT BUG 2 TEH DEVELOPMENT TEAM.\n`suggest` SUGGEST AN IMPROOVEMENT OR ENHANCEMENT 4 NARRATOR BOT.\n`roleinfo` KNOE MOAR BOUT TEH IN-GAME ROLEZ AN INTERACSHUNS.",
     "helpHeader": "BOUT NARRATOR BOT",
     "dailyNotReady": "U CANT CLAIM UR NEXT DAILY PRIZE YET! COME BAK {time}",
-    "inviteBadgeUnlocked": "Congratulations! You just unlocked the invite badge with the code `{code}`",
-    "registeredInvite": "Your current registered invite code is `{code}` with **{uses}** uses.",
-    "noInviteRegistered": "You don't have any invite registered yet. Register it now using `{usage}`!\n\nThe invite can be in any of these formats:\n`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`,\n`wmY5afT`",
-    "inviteRegistered": "Successfully registered `{code}` to your account!",
-    "inviteAdded": "Successfully added invite",
-    "inviteAddFailed": "Failed to add invite",
-    "notOwnInvite": "Please use an invite you created!",
-    "notSimInvite": "Unable to find invite `{code}`!\nPlease use an invite from the sim server.",
-    "inviteNotResolveable": "Can't resolve this invite. Please try again or report this bug."
+    "inviteBadgeUnlocked": "CONGRATULASHUNS! U JUS UNLOCKD TEH INVITE BADGE WIF TEH CODE `{code}`",
+    "registeredInvite": "UR CURRENT REGISTERD INVITE CODE IZ `{code}` WIF **{uses}** USEZ.",
+    "noInviteRegistered": "U DOAN HAS ANY INVITE REGISTERD YET. REGISTR IT NAO USIN `{usage}`!\n\nTEH INVITE CAN BE IN ANY OV THEES FORMATS:\n`HTTPS://DISCORD.GG/WMY5AFT`,\n`DISCORD.GG/WMY5AFT`,\n`WMY5AFT`",
+    "inviteRegistered": "SUCCESFULLY REGISTERD `{code}` 2 UR AKOWNT!",
+    "inviteAdded": "SUCCESFULLY ADDD INVITE",
+    "inviteAddFailed": "FAILD 2 ADD INVITE",
+    "notOwnInvite": "PLZ USE AN INVITE U CREATD!",
+    "notSimInvite": "UNABLE 2 FIND INVITE `{code}`!\nPLZ USE AN INVITE FRUM TEH SIM SERVR.",
+    "inviteNotResolveable": "CANT RESOLVE DIS INVITE. PLZ TRY AGAIN OR REPORT DIS BUG."
 }
