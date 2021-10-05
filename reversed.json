@@ -79,12 +79,12 @@
     "helpHeader": "toB rotarraN tuobA",
     "dailyNotReady": "{time} kcab emoC !tey ezirp yliad txen ruoy mialc tonnac uoY",
     "inviteBadgeUnlocked": "`{code}` edoc eht htiw egdab etivni eht dekcolnu tsuj uoY !snoitalutargnoC",
-    "registeredInvite": "Your current registered invite code is `{code}` with **{uses}** uses.",
-    "noInviteRegistered": "You don't have any invite registered yet. Register it now using `{usage}`!\n\nThe invite can be in any of these formats:\n`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`,\n`wmY5afT`",
-    "inviteRegistered": "Successfully registered `{code}` to your account!",
-    "inviteAdded": "Successfully added invite",
-    "inviteAddFailed": "Failed to add invite",
-    "notOwnInvite": "Please use an invite you created!",
-    "notSimInvite": "Unable to find invite `{code}`!\nPlease use an invite from the sim server.",
-    "inviteNotResolveable": "Can't resolve this invite. Please try again or report this bug."
+    "registeredInvite": ".sesu **{uses}** htiw `{code}` si edoc etivni deretsiger tnerruc ruoY",
+    "noInviteRegistered": "`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`,\n`wmY5afT`\n:stamrof eseht fo yna ni eb nac etivni ehT\n\n!`{usage}` ginsu won ti retsigeR .tey deretsiger etivni yna evah t'nod uoY",
+    "inviteRegistered": "!tnuocca ruoy ot `{code}` deretsiger yllufsseccuS",
+    "inviteAdded": "etivni dedda yllufsseccuS",
+    "inviteAddFailed": "etivni dda ot deliaF",
+    "notOwnInvite": "!detaerc uoy etivni na esu esaelP",
+    "notSimInvite": ".revres mis eht morf etivni na esu esaelP\n!`{code}` etivni dnif ot elbanU",
+    "inviteNotResolveable": ".gub siht troper ro niaga yrt esaelP .etivni siht evloser t'naC"
 }
