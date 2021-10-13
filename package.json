@@ -1,5 +1,5 @@
 {
-  "name": "i10n",
+  "name": "l10n",
   "version": "1.0.0",
   "description": "Translations for Narrator Bot",
   "main": "index.js",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wwosimulation/i10n.git"
+    "url": "git+https://github.com/wwosimulation/l10n.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wwosimulation/i10n/issues"
+    "url": "https://github.com/wwosimulation/l10n/issues"
   },
-  "homepage": "https://github.com/wwosimulation/i10n#readme"
+  "homepage": "https://github.com/wwosimulation/l10n#readme"
 }

@@ -1,2 +1,2 @@
-# i10n
+# l10n
 Translations for Narrator Bot
