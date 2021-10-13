@@ -30,7 +30,7 @@
     "profileLocked": "Nowp, they don’t have their profile unlocked from the shop.",
     "profile": "Profile",
     "inventory": "Inventory",
-    "shopTitle": "Furryville Simulation Shop",
+    "shopTitle": "Furryville Simpnation Shop",
     "shopFooter": "Stop wasting my time by making mistakes, here’s how to do it properly: `+buy <color> role`",
     "page": "Page",
     "availableColors": "Available colors",
@@ -81,10 +81,10 @@
     "inviteBadgeUnlocked": "woohoo you just got a badge. you'd better not forget the code: `{code}`",
     "registeredInvite": "Your current registered invite code is `{code}` with **{uses}** uses.",
     "noInviteRegistered": "lol register an invite first nub. use `{usage}`\n\nThe invite can be in any of these formats:\n`https://discord.gg/wmY5afT`,\n`discord.gg/wmY5afT`,\n`wmY5afT`",
-    "inviteRegistered": "Successfully registered `{code}` to your account!",
-    "inviteAdded": "Successfully added invite",
-    "inviteAddFailed": "Failed to add invite",
-    "notOwnInvite": "Please use an invite you created!",
-    "notSimInvite": "Unable to find invite `{code}`!\nPlease use an invite from the sim server.",
-    "inviteNotResolveable": "Can't resolve this invite. Please try again or report this bug."
+    "inviteRegistered": "`{code}` is now registered to your account. woo hoo.",
+    "inviteAdded": "added invite successfully. was hoping you'd fail ngl.",
+    "inviteAddFailed": "failed to add invite. HA",
+    "notOwnInvite": "lol you didn't even create this invite what a liar",
+    "notSimInvite": "ey wut \n`{code}` isnt even from this server you numbskull",
+    "inviteNotResolveable": "the invite cannot be resolved cuz im in a bad mood. try again or report the bug"
 }
