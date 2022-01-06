@@ -86,5 +86,9 @@
     "inviteAddFailed": "Faililied two adds incite",
     "notOwnInvite": "Plseaes ussse an inxivte you crea..-terd!...",
     "notSimInvite": "Unabel to findnd invite '{code}'!\nPlease...use an invity form the sim...p sevrer.",
-    "inviteNotResolveable": "Can't reosovle dis invte. Plse fry again ore reportes this buggy."
+    "inviteNotResolveable": "Can't reosovle dis invte. Plse fry again ore reportes this buggy.",
+    "rosewheel1": "Congratulations! You won {prize}!",
+    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
+    "rosewheel3": "You found {prize}!",
+    "rosewheel4": "The rosewheel reveals {prize}!"
 }
