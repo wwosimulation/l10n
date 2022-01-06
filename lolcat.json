@@ -86,5 +86,9 @@
     "inviteAddFailed": "FAILD 2 ADD INVITE",
     "notOwnInvite": "PLZ USE AN INVITE U CREATD!",
     "notSimInvite": "UNABLE 2 FIND INVITE `{code}`!\nPLZ USE AN INVITE FRUM TEH SIM SERVR.",
-    "inviteNotResolveable": "CANT RESOLVE DIS INVITE. PLZ TRY AGAIN OR REPORT DIS BUG."
+    "inviteNotResolveable": "CANT RESOLVE DIS INVITE. PLZ TRY AGAIN OR REPORT DIS BUG.",
+    "rosewheel1": "Congratulations! You won {prize}!",
+    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
+    "rosewheel3": "You found {prize}!",
+    "rosewheel4": "The rosewheel reveals {prize}!"
 }
