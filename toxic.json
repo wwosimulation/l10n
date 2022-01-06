@@ -86,5 +86,9 @@
     "inviteAddFailed": "failed to add invite. HA",
     "notOwnInvite": "lol you didn't even create this invite what a liar",
     "notSimInvite": "ey wut \n`{code}` isnt even from this server you numbskull",
-    "inviteNotResolveable": "the invite cannot be resolved cuz im in a bad mood. try again or report the bug"
+    "inviteNotResolveable": "the invite cannot be resolved cuz im in a bad mood. try again or report the bug",
+    "rosewheel1": "Congratulations! You won {prize}!",
+    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
+    "rosewheel3": "You found {prize}!",
+    "rosewheel4": "The rosewheel reveals {prize}!"
 }
