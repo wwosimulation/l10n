@@ -86,5 +86,9 @@
     "inviteAddFailed": "Failed to add invite",
     "notOwnInvite": "Please use an invite you created!",
     "notSimInvite": "Unable to find invite `{code}`!\nPlease use an invite from the sim server.",
-    "inviteNotResolveable": "Can't resolve this invite. Please try again or report this bug."
+    "inviteNotResolveable": "Can't resolve this invite. Please try again or report this bug.",
+    "rosewheel1": "Congratulations! You won {prize}!",
+    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
+    "rosewheel3": "You found {prize}!",
+    "rosewheel4": "The rosewheel reveals {prize}!"
 }
