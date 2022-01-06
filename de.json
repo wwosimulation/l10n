@@ -86,5 +86,9 @@
     "inviteAddFailed": "Hinzufügen von Einladung fehlgeschlagen",
     "notOwnInvite": "Bitte nutze eine Einladung, die du erstellt hast!",
     "notSimInvite": "`{code}` konnte nicht gefunden werden!\nBitte gib einen Code vom Sim Server an.",
-    "inviteNotResolveable": "Konnte die Einladung nicht erkennen. Bitte versuche es erneut oder melde den Bug."
+    "inviteNotResolveable": "Konnte die Einladung nicht erkennen. Bitte versuche es erneut oder melde den Bug.",
+    "rosewheel1": "Congratulations! You won {prize}!",
+    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
+    "rosewheel3": "You found {prize}!",
+    "rosewheel4": "The rosewheel reveals {prize}!"
 }
