@@ -86,5 +86,9 @@
     "inviteAddFailed": "Kan uitnodiging niet toevoegen",
     "notOwnInvite": "Gebruik alsjeblieft een uitnodiging die door jou gemaakt is!",
     "notSimInvite": "Kan de uitnodiging `{code}` niet vinden!\nGebruik een uitnodiging van de simulatie server.",
-    "inviteNotResolveable": "Kan deze uitnodiging niet oplossen. Probeer het opnieuw of meld deze bug."
+    "inviteNotResolveable": "Kan deze uitnodiging niet oplossen. Probeer het opnieuw of meld deze bug.",
+    "rosewheel1": "Congratulations! You won {prize}!",
+    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
+    "rosewheel3": "You found {prize}!",
+    "rosewheel4": "The rosewheel reveals {prize}!"
 }
