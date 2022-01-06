@@ -86,5 +86,9 @@
     "inviteAddFailed": "Failed to addition invited",
     "notOwnInvite": "Pleasure used an invited you are a create!",
     "notSimInvite": "Unabrue to found invited `{code}`!\npleasure used an invited the originate sim server",
-    "inviteNotResolveable": "With able to't resolve that invited.  Pleasure tried again or report that bug"
+    "inviteNotResolveable": "With able to't resolve that invited.  Pleasure tried again or report that bug",
+    "rosewheel1": "Congratulations! You won {prize}!",
+    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
+    "rosewheel3": "You found {prize}!",
+    "rosewheel4": "The rosewheel reveals {prize}!"
 }
