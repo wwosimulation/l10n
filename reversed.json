@@ -87,8 +87,8 @@
     "notOwnInvite": "!detaerc uoy etivni na esu esaelP",
     "notSimInvite": ".revres mis eht morf etivni na esu esaelP\n!`{code}` etivni dnif ot elbanU",
     "inviteNotResolveable": ".gub siht troper ro niaga yrt esaelP .etivni siht evloser t'naC",
-    "rosewheel1": "Congratulations! You won {prize}!",
-    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
-    "rosewheel3": "You found {prize}!",
-    "rosewheel4": "The rosewheel reveals {prize}!"
+    "rosewheel1": "!{prize} now uoY !snoitalutargnoC",
+    "rosewheel2": ".{prizeName} eht thguoc yllufsseccus uoY !deraeppa {prizeName} dliw {prizeAmount}",
+    "rosewheel3": "!{prize} dnuof yoY",
+    "rosewheel4": "!{prize} slaever leehwesor ehT"
 }
