@@ -87,8 +87,8 @@
     "notOwnInvite": "Xin hãy dùng lời mời bạn đã tạo!",
     "notSimInvite": "Không thể tìm thấy lời mời `{code}`!\nXin hãy dùng lời mời của máy chủ sim.",
     "inviteNotResolveable": "Không thể giải quyết lời mời này. Vui lòng thử lại hoặc báo cáo lỗi này.",
-    "rosewheel1": "Congratulations! You won {prize}!",
-    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
-    "rosewheel3": "You found {prize}!",
-    "rosewheel4": "The rosewheel reveals {prize}!"
+    "rosewheel1": "Xin chúc mừng! Bạn giành được {prize}!",
+    "rosewheel2": "{prizeAmount} {prizeName} ngẫu nhiên xuất hiện! Bạn bắt giữ thành công {prizeName}.",
+    "rosewheel3": "Bạn tìm được {prize}!",
+    "rosewheel4": "Vòng quay hoa hiện {prize}!"
 }
