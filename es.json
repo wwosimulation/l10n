@@ -87,8 +87,8 @@
     "notOwnInvite": "¡Por favor utiliza una invitación que tú hayas creado!",
     "notSimInvite": "Incapaz de encontrar la invitación `{code}`!\nPor favor utiliza una invitación del servidor del simulator.",
     "inviteNotResolveable": "No se puede proceder esta invitación. Por favor intenta de nuevo o reporta este bug.",
-    "rosewheel1": "Congratulations! You won {prize}!",
-    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
-    "rosewheel3": "You found {prize}!",
-    "rosewheel4": "The rosewheel reveals {prize}!"
+    "rosewheel1": "¡Felicidades! ¡Has ganado {prize}!",
+    "rosewheel2": "¡{prizeAmount} salvajes {prizeName} aparecieron! Atrapaste {prizeName} exitosamente.",
+    "rosewheel3": "¡Encontraste {prize}!",
+    "rosewheel4": "¡La ruleta de rosas revela {prize}!"
 }
