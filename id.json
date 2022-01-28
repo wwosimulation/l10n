@@ -87,8 +87,8 @@
     "notOwnInvite": "Tolong pakai undangan yang kamu buat!",
     "notSimInvite": "Tidak dapat menemukan undangan `{code}`!\nTolong pakai undangan dari server sim.",
     "inviteNotResolveable": "Gagal menyelesaikan undangan ini. Tolong coba lagi atau laporkan bug ini.",
-    "rosewheel1": "Congratulations! You won {prize}!",
-    "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
-    "rosewheel3": "You found {prize}!",
-    "rosewheel4": "The rosewheel reveals {prize}!"
+    "rosewheel1": "Selamat! Kamu memenangkan {prize}!",
+    "rosewheel2": "{prizeAmount} liar {prizeName} muncul! Kamu berhasil menangkap {prizeName}.",
+    "rosewheel3": "Kamu menemukan {prize}!",
+    "rosewheel4": "Roda ros menunjukkan {prize}!"
 }
