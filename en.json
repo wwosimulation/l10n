@@ -90,5 +90,6 @@
     "rosewheel1": "Congratulations! You won {prize}!",
     "rosewheel2": "{prizeAmount} wild {prizeName} appeared! You successfully cought the {prizeName}.",
     "rosewheel3": "You found {prize}!",
-    "rosewheel4": "The rosewheel reveals {prize}!"
+    "rosewheel4": "The rosewheel reveals {prize}!",
+    "noEmojiAccess": "You need to buy the Emoji role from the shop in order to use this command!"
 }
